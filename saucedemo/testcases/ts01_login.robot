@@ -1,6 +1,6 @@
 *** Settings ***
-Resource ../resources/shared/setup__teardown.resource
-Resources ./resources/po/com01_login.resource
+Resource   ../resources/shared/setup__teardown.resource
+Resources  ./resources/po/com01_login.resource
 
 #Test Setup   Setup
 #Test Teardown  Teardown
